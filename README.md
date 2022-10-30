@@ -3,17 +3,17 @@
 [![Linkedin](https://img.shields.io/badge/in-Nadi%20Duno-blue)](https://www.linkedin.com/in/nadiduno/)
 
 <div align="center">
-  <br />
   <img 
     alt=" de Nadi Duno"
     src=".github/projectNadiDuno.png" 
     width="100%"
   >
+  <br />
 </div>
 
 listMovies: Frontend de uma listagem de Filmes apresentados por categorias.
 
-[![Languages](https://img.shields.io/badge/%3C%2F%3E-languages-lightgrey)] <br/>
+![Languages](https://img.shields.io/badge/%3C%2F%3E-languages-lightgrey)<br/>
 [ReactJS](https://reactjs.org/) | [Node.js](https://nodejs.org/en/download/) | [Yarn](https://yarnpkg.com/)
 
 
