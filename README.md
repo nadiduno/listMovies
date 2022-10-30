@@ -1,19 +1,19 @@
 [![Author](https://img.shields.io/badge/Dev-Nadi%20Duno-blueviolet%20)](https://portfolio-nadi.vercel.app/)
 [![Social](https://img.shields.io/twitter/follow/nadiduno?label=%40nadiduno&style=social)](https://twitter.com/nadiduno)
 [![Linkedin](https://img.shields.io/badge/in-Nadi%20Duno-blue)](https://www.linkedin.com/in/nadiduno/)
-
+##listMovies
+Frontend de uma listagem de Filmes apresentados por categorias.
 <div align="center">
+  <br />
   <img 
-    alt=" de Nadi Duno"
+    alt="List Movies de Nadi Duno"
     src=".github/projectNadiDuno.png" 
     width="100%"
   >
   <br />
 </div>
 
-listMovies: Frontend de uma listagem de Filmes apresentados por categorias.
-
-![Languages](https://img.shields.io/badge/%3C%2F%3E-languages-lightgrey)<br/>
+(https://img.shields.io/badge/%3C%2F%3E-languages-lightgrey)<br/>
 [ReactJS](https://reactjs.org/) | [Node.js](https://nodejs.org/en/download/) | [Yarn](https://yarnpkg.com/)
 
 
